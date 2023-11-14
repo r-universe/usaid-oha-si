@@ -8,6 +8,10 @@
 [submodule "Wavelength"]
 	path = Wavelength
 	url = https://github.com/USAID-OHA-SI/Wavelength
+[submodule "cascade"]
+	path = cascade
+	url = https://github.com/USAID-OHA-SI/cascade
+	registered = false
 [submodule "gagglr"]
 	path = gagglr
 	url = https://github.com/USAID-OHA-SI/gagglr
@@ -29,6 +33,10 @@
 [submodule "mindthegap"]
 	path = mindthegap
 	url = https://github.com/USAID-OHA-SI/mindthegap
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	registered = false
 [submodule "selfdestructin5"]
 	path = selfdestructin5
 	url = https://github.com/USAID-OHA-SI/selfdestructin5
