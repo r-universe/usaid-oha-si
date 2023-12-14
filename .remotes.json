@@ -48,6 +48,12 @@
     "from": "tameDP"
   },
   {
+    "package": "COVIDutilities",
+    "url": "https://github.com/USAID-OHA-SI/COVIDutilities",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
+  },
+  {
     "package": "Wavelength",
     "url": "https://github.com/USAID-OHA-SI/Wavelength",
     "via": ["gagglr"],
@@ -96,6 +102,12 @@
     "from": "tameDP"
   },
   {
+    "package": "Wavelength",
+    "url": "https://github.com/USAID-OHA-SI/Wavelength",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
+  },
+  {
     "package": "cascade",
     "url": "https://github.com/USAID-OHA-SI/cascade",
     "via": ["gagglr"],
@@ -142,6 +154,12 @@
     "url": "https://github.com/USAID-OHA-SI/cascade",
     "via": ["tameDP", "glamr", "gagglr"],
     "from": "tameDP"
+  },
+  {
+    "package": "cascade",
+    "url": "https://github.com/USAID-OHA-SI/cascade",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
   },
   {
     "package": "gagglr",
@@ -186,6 +204,12 @@
     "from": "tameDP"
   },
   {
+    "package": "gagglr",
+    "url": "https://github.com/USAID-OHA-SI/gagglr",
+    "via": ["themask"],
+    "from": "themask"
+  },
+  {
     "package": "gisr",
     "url": "https://github.com/USAID-OHA-SI/gisr",
     "via": ["gagglr"],
@@ -226,6 +250,12 @@
     "url": "https://github.com/USAID-OHA-SI/gisr",
     "via": ["tameDP", "glamr", "gagglr"],
     "from": "tameDP"
+  },
+  {
+    "package": "gisr",
+    "url": "https://github.com/USAID-OHA-SI/gisr",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
   },
   {
     "package": "glamr",
@@ -270,6 +300,12 @@
     "from": "tameDP"
   },
   {
+    "package": "glamr",
+    "url": "https://github.com/USAID-OHA-SI/glamr",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
+  },
+  {
     "package": "glitr",
     "url": "https://github.com/USAID-OHA-SI/glitr",
     "via": ["gagglr"],
@@ -310,6 +346,12 @@
     "url": "https://github.com/USAID-OHA-SI/glitr",
     "via": ["tameDP", "glamr", "gagglr"],
     "from": "tameDP"
+  },
+  {
+    "package": "glitr",
+    "url": "https://github.com/USAID-OHA-SI/glitr",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
   },
   {
     "package": "gophr",
@@ -354,6 +396,12 @@
     "from": "tameDP"
   },
   {
+    "package": "gophr",
+    "url": "https://github.com/USAID-OHA-SI/gophr",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
+  },
+  {
     "package": "grabr",
     "url": "https://github.com/USAID-OHA-SI/grabr",
     "via": ["gagglr"],
@@ -396,6 +444,12 @@
     "from": "tameDP"
   },
   {
+    "package": "grabr",
+    "url": "https://github.com/USAID-OHA-SI/grabr",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
+  },
+  {
     "package": "mindthegap",
     "url": "https://github.com/USAID-OHA-SI/mindthegap",
     "via": ["gagglr"],
@@ -436,6 +490,12 @@
     "url": "https://github.com/USAID-OHA-SI/mindthegap",
     "via": ["tameDP", "glamr", "gagglr"],
     "from": "tameDP"
+  },
+  {
+    "package": "mindthegap",
+    "url": "https://github.com/USAID-OHA-SI/mindthegap",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
   },
   {
     "package": "rnaturalearthhires",
@@ -486,6 +546,12 @@
     "from": "tameDP"
   },
   {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["themask", "gagglr", "gisr"],
+    "from": "themask"
+  },
+  {
     "package": "selfdestructin5",
     "url": "https://github.com/USAID-OHA-SI/selfdestructin5",
     "via": ["gagglr"],
@@ -534,6 +600,12 @@
     "from": "tameDP"
   },
   {
+    "package": "selfdestructin5",
+    "url": "https://github.com/USAID-OHA-SI/selfdestructin5",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
+  },
+  {
     "package": "tameDP",
     "url": "https://github.com/USAID-OHA-SI/tameDP",
     "via": ["gagglr"],
@@ -574,6 +646,12 @@
     "url": "https://github.com/USAID-OHA-SI/tameDP",
     "via": ["mindthegap", "gophr", "glamr", "gagglr"],
     "from": "mindthegap"
+  },
+  {
+    "package": "tameDP",
+    "url": "https://github.com/USAID-OHA-SI/tameDP",
+    "via": ["themask", "gagglr"],
+    "from": "themask"
   },
   {
     "package": "themask",
