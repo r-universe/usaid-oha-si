@@ -30,6 +30,12 @@
     "from": "gophr"
   },
   {
+    "package": "COVIDutilities",
+    "url": "https://github.com/USAID-OHA-SI/COVIDutilities",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
+  },
+  {
     "package": "Wavelength",
     "url": "https://github.com/USAID-OHA-SI/Wavelength",
     "via": ["gagglr"],
@@ -60,6 +66,12 @@
     "from": "gophr"
   },
   {
+    "package": "Wavelength",
+    "url": "https://github.com/USAID-OHA-SI/Wavelength",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
+  },
+  {
     "package": "cascade",
     "url": "https://github.com/USAID-OHA-SI/cascade",
     "via": ["gagglr"],
@@ -88,6 +100,12 @@
     "url": "https://github.com/USAID-OHA-SI/cascade",
     "via": ["gophr", "glamr", "gagglr"],
     "from": "gophr"
+  },
+  {
+    "package": "cascade",
+    "url": "https://github.com/USAID-OHA-SI/cascade",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
   },
   {
     "package": "gagglr",
@@ -114,6 +132,12 @@
     "from": "gophr"
   },
   {
+    "package": "gagglr",
+    "url": "https://github.com/USAID-OHA-SI/gagglr",
+    "via": ["grabr", "glamr"],
+    "from": "grabr"
+  },
+  {
     "package": "gisr",
     "url": "https://github.com/USAID-OHA-SI/gisr",
     "via": ["gagglr"],
@@ -136,6 +160,12 @@
     "url": "https://github.com/USAID-OHA-SI/gisr",
     "via": ["gophr", "glamr", "gagglr"],
     "from": "gophr"
+  },
+  {
+    "package": "gisr",
+    "url": "https://github.com/USAID-OHA-SI/gisr",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
   },
   {
     "package": "glamr",
@@ -162,6 +192,12 @@
     "from": "gophr"
   },
   {
+    "package": "glamr",
+    "url": "https://github.com/USAID-OHA-SI/glamr",
+    "via": ["grabr"],
+    "from": "grabr"
+  },
+  {
     "package": "glitr",
     "url": "https://github.com/USAID-OHA-SI/glitr",
     "via": ["gagglr"],
@@ -184,6 +220,12 @@
     "url": "https://github.com/USAID-OHA-SI/glitr",
     "via": ["gophr", "glamr", "gagglr"],
     "from": "gophr"
+  },
+  {
+    "package": "glitr",
+    "url": "https://github.com/USAID-OHA-SI/glitr",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
   },
   {
     "package": "gophr",
@@ -210,6 +252,12 @@
     "from": "glitr"
   },
   {
+    "package": "gophr",
+    "url": "https://github.com/USAID-OHA-SI/gophr",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
+  },
+  {
     "package": "grabr",
     "url": "https://github.com/USAID-OHA-SI/grabr",
     "via": ["gagglr"],
@@ -268,6 +316,12 @@
     "url": "https://github.com/USAID-OHA-SI/mindthegap",
     "via": ["gophr", "glamr", "gagglr"],
     "from": "gophr"
+  },
+  {
+    "package": "mindthegap",
+    "url": "https://github.com/USAID-OHA-SI/mindthegap",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
   },
   {
     "package": "rnaturalearthhires",
@@ -300,6 +354,12 @@
     "from": "gophr"
   },
   {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["grabr", "glamr", "gagglr", "gisr"],
+    "from": "grabr"
+  },
+  {
     "package": "selfdestructin5",
     "url": "https://github.com/USAID-OHA-SI/selfdestructin5",
     "via": ["gagglr"],
@@ -330,6 +390,12 @@
     "from": "gophr"
   },
   {
+    "package": "selfdestructin5",
+    "url": "https://github.com/USAID-OHA-SI/selfdestructin5",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
+  },
+  {
     "package": "tameDP",
     "url": "https://github.com/USAID-OHA-SI/tameDP",
     "via": ["gagglr"],
@@ -360,6 +426,12 @@
     "from": "gophr"
   },
   {
+    "package": "tameDP",
+    "url": "https://github.com/USAID-OHA-SI/tameDP",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
+  },
+  {
     "package": "themask",
     "url": "https://github.com/USAID-OHA-SI/themask",
     "via": ["gagglr"],
@@ -388,5 +460,11 @@
     "url": "https://github.com/USAID-OHA-SI/themask",
     "via": ["gophr", "glamr", "gagglr"],
     "from": "gophr"
+  },
+  {
+    "package": "themask",
+    "url": "https://github.com/USAID-OHA-SI/themask",
+    "via": ["grabr", "glamr", "gagglr"],
+    "from": "grabr"
   }
 ]
