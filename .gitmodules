@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/usaid-oha-si/usaid-oha-si.r-universe.dev
 	branch = HEAD
+[submodule "COVIDutilities"]
+	path = COVIDutilities
+	url = https://github.com/USAID-OHA-SI/COVIDutilities
+[submodule "Wavelength"]
+	path = Wavelength
+	url = https://github.com/USAID-OHA-SI/Wavelength
+[submodule "gagglr"]
+	path = gagglr
+	url = https://github.com/USAID-OHA-SI/gagglr
+[submodule "gisr"]
+	path = gisr
+	url = https://github.com/USAID-OHA-SI/gisr
+[submodule "glamr"]
+	path = glamr
+	url = https://github.com/USAID-OHA-SI/glamr
+[submodule "glitr"]
+	path = glitr
+	url = https://github.com/USAID-OHA-SI/glitr
+[submodule "gophr"]
+	path = gophr
+	url = https://github.com/USAID-OHA-SI/gophr
+[submodule "grabr"]
+	path = grabr
+	url = https://github.com/USAID-OHA-SI/grabr
+[submodule "mindthegap"]
+	path = mindthegap
+	url = https://github.com/USAID-OHA-SI/mindthegap
+[submodule "selfdestructin5"]
+	path = selfdestructin5
+	url = https://github.com/USAID-OHA-SI/selfdestructin5
+[submodule "tameDP"]
+	path = tameDP
+	url = https://github.com/USAID-OHA-SI/tameDP
+[submodule "themask"]
+	path = themask
+	url = https://github.com/USAID-OHA-SI/themask
