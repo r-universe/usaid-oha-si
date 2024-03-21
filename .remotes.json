@@ -560,7 +560,7 @@
   {
     "package": "grabr",
     "url": "https://github.com/USAID-OHA-SI/grabr",
-    "via": ["glamr", "gagglr"],
+    "via": ["glamr", "gagglr", "gisr"],
     "from": "glamr"
   },
   {
