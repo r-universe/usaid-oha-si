@@ -596,7 +596,7 @@
   {
     "package": "grabr",
     "url": "https://github.com/USAID-OHA-SI/grabr",
-    "via": ["themask", "gagglr"],
+    "via": ["themask", "gagglr", "gisr"],
     "from": "themask"
   },
   {
