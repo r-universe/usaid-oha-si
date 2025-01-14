@@ -44,7 +44,7 @@
   {
     "package": "COVIDutilities",
     "url": "https://github.com/USAID-OHA-SI/COVIDutilities",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
@@ -110,7 +110,7 @@
   {
     "package": "Wavelength",
     "url": "https://github.com/USAID-OHA-SI/Wavelength",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
@@ -182,7 +182,7 @@
   {
     "package": "cascade",
     "url": "https://github.com/USAID-OHA-SI/cascade",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
@@ -248,7 +248,7 @@
   {
     "package": "gagglr",
     "url": "https://github.com/USAID-OHA-SI/gagglr",
-    "via": ["mindthegap", "gophr", "glamr"],
+    "via": ["mindthegap", "glitr"],
     "from": "mindthegap"
   },
   {
@@ -314,7 +314,7 @@
   {
     "package": "gisr",
     "url": "https://github.com/USAID-OHA-SI/gisr",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
@@ -380,7 +380,7 @@
   {
     "package": "glamr",
     "url": "https://github.com/USAID-OHA-SI/glamr",
-    "via": ["mindthegap", "gophr"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
@@ -446,7 +446,7 @@
   {
     "package": "glitr",
     "url": "https://github.com/USAID-OHA-SI/glitr",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr"],
+    "via": ["mindthegap"],
     "from": "mindthegap"
   },
   {
@@ -512,7 +512,7 @@
   {
     "package": "gophr",
     "url": "https://github.com/USAID-OHA-SI/gophr",
-    "via": ["mindthegap"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
@@ -578,7 +578,7 @@
   {
     "package": "grabr",
     "url": "https://github.com/USAID-OHA-SI/grabr",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr", "gisr"],
+    "via": ["mindthegap", "glitr", "gagglr", "gisr"],
     "from": "mindthegap"
   },
   {
@@ -716,7 +716,7 @@
   {
     "package": "rnaturalearthhires",
     "url": "https://github.com/ropensci/rnaturalearthhires",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr", "gisr"],
+    "via": ["mindthegap", "glitr", "gagglr", "gisr"],
     "from": "mindthegap"
   },
   {
@@ -788,7 +788,7 @@
   {
     "package": "selfdestructin5",
     "url": "https://github.com/USAID-OHA-SI/selfdestructin5",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
@@ -854,7 +854,7 @@
   {
     "package": "tameDP",
     "url": "https://github.com/USAID-OHA-SI/tameDP",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
@@ -920,7 +920,7 @@
   {
     "package": "themask",
     "url": "https://github.com/USAID-OHA-SI/themask",
-    "via": ["mindthegap", "gophr", "glamr", "gagglr"],
+    "via": ["mindthegap", "glitr", "gagglr"],
     "from": "mindthegap"
   },
   {
